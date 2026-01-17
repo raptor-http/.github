@@ -11,7 +11,7 @@
 Raptor is deadly efficient. It's smart enough to handle response types automatically, routes at breakneck speeds, and adaptable enough to thrive in any runtime. Write handlers that return data. Raptor will do the rest.
 
 * Automatic response processing.
-* Fast, predictable, sub-10 microsecond HTTP routing.
+* Fast, predictable, sub-2 microsecond HTTP routing.
 * Intuitive, familiar & extensible request validation.
 * Support for Deno, Bun & Node runtimes.
 
