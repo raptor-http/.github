@@ -15,7 +15,7 @@ Raptor is deadly efficient. It's smart enough to handle response types automatic
 * Intuitive, familiar & extensible request validation.
 * Support for Deno, Bun & Node runtimes.
 
-Get started today with the simple [installation guide](https://raptorframework.com/docs/installation).
+Get started today with the simple [installation guide](https://raptorframework.com/docs/getting-started/installation).
 
 ## Documentation
 
