@@ -8,7 +8,7 @@
 
 ## About 
 
-Raptor is deadly efficient. It's smart enough to handle response types automatically, routes at breakneck speeds, and adaptable enough to thrive in any runtime. Write handlers that return data. Raptor will do the rest.
+Find a perfect balance between simplicity and power, with type-safe validation, lightening-fast routing and elegant middleware definition. Everything you need to build your next application.
 
 * Automatic response processing.
 * Fast, predictable, sub-2 microsecond HTTP routing.
